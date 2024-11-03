@@ -1,1 +1,1 @@
-from .read_file import FileParser
+from .file_parser import FileParser

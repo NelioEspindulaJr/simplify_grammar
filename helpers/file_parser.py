@@ -1,8 +1,7 @@
 import sys
-from typing import List, Tuple, Optional
 
-Production = Tuple[str, str]
-ProductionsList = List[Production]
+from custom_types import Grammar
+from typing import Optional
 
 
 class FileParser:
@@ -11,7 +10,7 @@ class FileParser:
         self.variables = []
         self.productions_rules = []
 
-    def read_file(self) -> Optional[Tuple[List[str], ProductionsList]]:
+    def read_file(self) -> Optional[Grammar]:
         while True:
             if not self.file_name:
                 self.file_name = input("Enter the file name inside this directory: ")

@@ -1,6 +1,5 @@
-A B C D
-A h
-B Ca
-C A
-A B
-D h
+S A B C
+S -> abS
+A -> cd
+B -> aB
+C -> dc
