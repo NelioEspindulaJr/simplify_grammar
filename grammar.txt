@@ -1,5 +1,6 @@
 S A B C
-S -> abS
-A -> cd
-B -> aB
-C -> dc
+S
+S abS
+A cD
+B aB
+C dC

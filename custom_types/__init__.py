@@ -1,2 +1,2 @@
-from .productions import ProductionsList
+from .productions import ProductionsList, ProductionsDictionary
 from .grammar import Grammar

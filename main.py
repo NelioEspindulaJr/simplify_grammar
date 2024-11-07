@@ -3,9 +3,6 @@ from helpers import FileParser
 file_parser = FileParser()
 
 def main():
-    variables, rules = file_parser.read_file()
-    print(variables)
-    print(rules)
-
+    start_variable, variables, productions_rules = file_parser.read_file()
 if __name__ == "__main__":
     main()
