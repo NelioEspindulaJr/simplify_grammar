@@ -4,3 +4,6 @@ S abS
 A cD
 B aB
 C dC
+A B
+B C
+D h
