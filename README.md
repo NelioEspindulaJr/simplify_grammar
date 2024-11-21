@@ -8,8 +8,6 @@ Implementation of an algorithm to simplify (clean) a given grammar by removing a
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
