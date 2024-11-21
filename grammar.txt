@@ -1,9 +1,10 @@
-S A B C
+S A B C D
 S
-S abS
-A cD
-B aB
-C dC
+S a
+S Aa
+A a
+A Aa
 A B
-B C
-D h
+B h
+C Ab
+D Bb
