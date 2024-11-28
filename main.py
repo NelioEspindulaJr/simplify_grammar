@@ -1,5 +1,3 @@
-from turtledemo.penrose import start
-
 from helpers import FileParser, ProductionSimplifier
 
 file_parser = FileParser()
